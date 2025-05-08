@@ -83,7 +83,7 @@ const Connector = () => {
           />
         </path>
       </svg>
-      <h1 className="text-6xl font-bold text-center px-4"><span className="text-[#964B00] ">Coffee</span> Shop</h1>
+      <h1 className="text-6xl font-bold text-center px-4"><span className="text-[#964B00] ">Canvas</span> Mart</h1>
       <p className="text-lg text-gray-500 text-center px-4">
         Please wait while we connect you to the server.
       </p>

@@ -3,7 +3,7 @@ import Landing from './landing'
 import {Link} from 'react-router-dom'
 import axios from 'axios'
 import { toast } from "react-toastify";
-import BG from '../assets/CheckoutBg.png'
+import BG from '../assets/download.jpg'
 function paymentsuccess() {
 
   useEffect(()=>{

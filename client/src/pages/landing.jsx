@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Info, Tab, Tabsearch } from "../components/landing-c/Head";
 import { Heading } from "../components/landing-c/Head";
-import Bg from "../assets/Bg.png";
+import Bg from "../assets/download.jpg";
 
 import CardBox from "../components/store-c/CardBox";
 import Signup from "../components/main/signup";
